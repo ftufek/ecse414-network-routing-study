@@ -1,0 +1,19 @@
+traceroute to www.facebook.com (31.13.70.65), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * imtrl-uq.risq.net (192.77.55.245)  58.250 ms  58.395 ms
+ 7  mtrl2rtr2.canarie.ca (199.212.24.82)  58.187 ms  58.613 ms  58.664 ms
+ 8  wnpg1rtr2.canarie.ca (205.189.33.218)  102.505 ms  102.633 ms  102.986 ms
+ 9  sask1rtr2.canarie.ca (205.189.33.212)  100.448 ms  100.479 ms  100.534 ms
+10  clgr2rtr2.canarie.ca (205.189.33.228)  101.785 ms  101.882 ms  102.198 ms
+11  vncv1rtr2.canarie.ca (199.212.24.1)  101.130 ms  101.366 ms  285.595 ms
+12  six1.pr01.sea1.tfbnw.net (206.81.80.181)  285.642 ms * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  po126.msw01.05.lax1.tfbnw.net (74.119.78.109)  1048.500 ms  1048.475 ms  89.604 ms
+18  edge-star-shv-05-lax1.facebook.com (31.13.70.65)  88.636 ms  89.495 ms  93.604 ms

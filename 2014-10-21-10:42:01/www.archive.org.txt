@@ -1,0 +1,17 @@
+traceroute to www.archive.org (207.241.224.2), 30 hops max, 60 byte packets
+ 1  142.157.102.3 (142.157.102.3)  3.961 ms  4.027 ms  9.476 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  9.719 ms  9.823 ms  10.012 ms
+ 3  mcgill-gw-canet.risq.net (206.167.128.49)  9.983 ms  10.154 ms  10.137 ms
+ 4  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  20.167 ms  1126.466 ms  1126.450 ms
+ 5  canet-rq.risq.net (132.202.80.10)  1126.763 ms  1126.773 ms  1126.932 ms
+ 6  mtrl2rtr1.canarie.ca (205.189.32.250)  1127.023 ms  6.969 ms  5.517 ms
+ 7  205.189.32.192 (205.189.32.192)  12.284 ms  12.407 ms  12.397 ms
+ 8  wnpg1rtr1.canarie.ca (205.189.32.180)  40.197 ms  41.436 ms  42.690 ms
+ 9  sask1rtr1.canarie.ca (205.189.32.178)  49.777 ms  50.993 ms  51.214 ms
+10  clgr2rtr1.canarie.ca (205.189.32.182)  59.514 ms  61.170 ms  61.292 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  71.717 ms  73.436 ms  73.103 ms
+12  cenichpr-1-is-jmb-778.snvaca.pacificwave.net (207.231.245.129)  88.654 ms  88.461 ms  88.810 ms
+13  hpr-svl-core1--svl-hpr2.cenic.net (137.164.26.250)  90.400 ms  87.818 ms  87.806 ms
+14  sfo-agg1--svl-agg2-10g.cenic.net (137.164.22.26)  89.650 ms  88.917 ms  89.534 ms
+15  dc-iarchive--sfo-agg1.cenic.net (137.164.35.41)  148.708 ms  140.115 ms  140.180 ms
+16  www.archive.org (207.241.224.2)  90.956 ms  90.001 ms  90.111 ms

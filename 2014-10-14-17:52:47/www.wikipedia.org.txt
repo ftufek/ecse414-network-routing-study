@@ -1,0 +1,9 @@
+traceroute to www.wikipedia.org (208.80.154.224), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  3.278 ms  3.319 ms  3.299 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  3.095 ms  3.127 ms  3.236 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  80.577 ms  80.514 ms  80.544 ms
+ 4  10ge3-4.core1.nyc5.he.net (209.51.172.25)  40.621 ms  40.631 ms  40.613 ms
+ 5  10ge9-7.core1.nyc4.he.net (184.105.213.217)  50.463 ms  50.470 ms  66.740 ms
+ 6  100ge5-1.core1.ash1.he.net (184.105.223.165)  43.891 ms  31.728 ms  42.510 ms
+ 7  216.66.30.90 (216.66.30.90)  45.265 ms  26.518 ms  26.496 ms
+ 8  text-lb.eqiad.wikimedia.org (208.80.154.224)  26.481 ms  29.047 ms  29.071 ms

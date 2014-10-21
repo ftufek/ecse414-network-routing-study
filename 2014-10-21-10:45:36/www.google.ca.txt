@@ -1,0 +1,14 @@
+traceroute to www.google.ca (74.125.225.152), 30 hops max, 60 byte packets
+ 1  142.157.102.3 (142.157.102.3)  4.144 ms  4.339 ms  4.435 ms
+ 2  internet2-vlan877.gw.mcgill.ca (132.216.255.99)  4.534 ms  4.682 ms  4.988 ms
+ 3  internet1-vlan710.gw.mcgill.ca (192.168.254.4)  5.082 ms  5.184 ms  5.486 ms
+ 4  mcgill-gw-qix.risq.net (206.167.128.57)  9.953 ms  10.176 ms  10.275 ms
+ 5  mcgill-qix.dmtrl-rq.risq.net (132.202.52.89)  10.946 ms  10.807 ms  11.026 ms
+ 6  dgtnu-uq.risq.net (192.77.55.238)  14.239 ms  9.816 ms  6.002 ms
+ 7  igtnu-uq.risq.net (192.77.55.237)  13.348 ms  12.120 ms  14.519 ms
+ 8  gw-google.torontointernetxchange.net (206.108.34.6)  16.690 ms  14.568 ms  17.179 ms
+ 9  209.85.255.232 (209.85.255.232)  15.783 ms  16.487 ms  18.106 ms
+10  72.14.235.34 (72.14.235.34)  31.807 ms  31.884 ms  31.996 ms
+11  72.14.233.69 (72.14.233.69)  39.043 ms  40.621 ms  33.983 ms
+12  209.85.240.152 (209.85.240.152)  30.255 ms  29.047 ms  35.112 ms
+13  ord08s09-in-f24.1e100.net (74.125.225.152)  35.230 ms  32.447 ms  35.070 ms

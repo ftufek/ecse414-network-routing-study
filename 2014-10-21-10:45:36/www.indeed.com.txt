@@ -1,0 +1,17 @@
+traceroute to www.indeed.com (104.130.96.16), 30 hops max, 60 byte packets
+ 1  142.157.102.3 (142.157.102.3)  11.907 ms  11.914 ms  12.787 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  11.999 ms  12.170 ms  12.305 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  29.371 ms  29.455 ms  29.522 ms
+ 4  10ge3-4.core1.nyc5.he.net (209.51.172.25)  26.017 ms  26.753 ms  26.985 ms
+ 5  * * *
+ 6  above.net (198.32.118.25)  29.343 ms  20.764 ms  20.840 ms
+ 7  ae5.cr2.lga5.us.above.net (64.125.21.82)  26.033 ms  26.186 ms  26.315 ms
+ 8  ae6.cr2.ord2.us.above.net (64.125.24.30)  990.724 ms  984.811 ms  983.952 ms
+ 9  ae10.mpr1.ord11.us.above.net (64.125.24.110)  983.611 ms  979.156 ms  976.167 ms
+10  * ae4.mpr1.ord5.us.above.net (64.125.24.94)  976.009 ms *
+11  * * *
+12  * * *
+13  czi1-tunnel4.ord1.rackspace.net (50.56.6.163)  43.387 ms  43.776 ms 173.203.0.131 (173.203.0.131)  43.390 ms
+14  core1-coreb.ord1.rackspace.net (184.106.126.129)  43.011 ms core2-coreb.ord1.rackspace.net (184.106.126.131)  43.517 ms core2-corea.ord1.rackspace.net (184.106.126.127)  39.037 ms
+15  aggr501a-2-core1.ord1.rackspace.net (184.106.126.99)  43.655 ms  39.900 ms aggr501a-2-core2.ord1.rackspace.net (50.57.194.59)  43.081 ms
+16  104.130.96.16 (104.130.96.16)  43.144 ms  43.226 ms  42.074 ms

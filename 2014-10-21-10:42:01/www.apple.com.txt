@@ -1,0 +1,8 @@
+traceroute to www.apple.com (23.78.189.15), 30 hops max, 60 byte packets
+ 1  142.157.102.3 (142.157.102.3)  24.784 ms  26.527 ms  26.668 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  26.737 ms  26.815 ms  26.970 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  69.544 ms  69.411 ms  69.577 ms
+ 4  * 10ge3-4.core1.nyc5.he.net (209.51.172.25)  68.944 ms  68.992 ms
+ 5  * * *
+ 6  paix-lga.netarch.akamai.com (198.32.118.127)  69.300 ms  26.407 ms  34.511 ms
+ 7  a23-78-189-15.deploy.static.akamaitechnologies.com (23.78.189.15)  34.558 ms  34.828 ms  34.911 ms

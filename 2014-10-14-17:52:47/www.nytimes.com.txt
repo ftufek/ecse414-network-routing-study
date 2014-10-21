@@ -1,0 +1,13 @@
+traceroute to www.nytimes.com (170.149.168.130), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  3.140 ms  3.113 ms  3.106 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  3.099 ms  5.862 ms  5.893 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  32.923 ms  32.944 ms  32.912 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  32.908 ms  32.892 ms  32.874 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  32.858 ms be2325.ccr22.jfk02.atlas.cogentco.com (154.54.47.29)  32.845 ms be2324.ccr21.jfk02.atlas.cogentco.com (154.54.47.17)  32.829 ms
+ 6  be2059.ccr21.jfk10.atlas.cogentco.com (154.54.1.222)  32.814 ms be2057.ccr21.jfk10.atlas.cogentco.com (154.54.80.178)  42.798 ms  42.761 ms
+ 7  level3.ord03.atlas.cogentco.com (154.54.13.10)  30.946 ms  30.921 ms  30.910 ms
+ 8  ae2.cr1.lga5.us.above.net (64.125.31.213)  33.281 ms  23.011 ms  22.988 ms
+ 9  ae4.mpr1.ewr1.us.above.net (64.125.20.70)  23.005 ms  26.984 ms  26.974 ms
+10  xe-0-0-0.mpr1.ewr4.us.above.net (64.125.25.246)  57.437 ms  57.441 ms  57.430 ms
+11  64.125.173.70.t01646-03.above.net (64.125.173.70)  26.828 ms  26.842 ms  22.926 ms
+12  170.149.168.130 (170.149.168.130)  22.930 ms  25.701 ms  22.891 ms
