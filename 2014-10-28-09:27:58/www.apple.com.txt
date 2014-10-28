@@ -1,0 +1,13 @@
+traceroute to www.apple.com (96.16.45.15), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  a96-16-45-15.deploy.akamaitechnologies.com (96.16.45.15)  590.861 ms  591.406 ms *

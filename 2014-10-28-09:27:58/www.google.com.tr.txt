@@ -1,0 +1,14 @@
+traceroute to www.google.com.tr (74.125.226.79), 30 hops max, 60 byte packets
+ 1  142.157.102.3 (142.157.102.3)  17.126 ms  17.525 ms  17.808 ms
+ 2  internet2-vlan877.gw.mcgill.ca (132.216.255.99)  17.041 ms  17.341 ms  17.352 ms
+ 3  internet1-vlan710.gw.mcgill.ca (192.168.254.4)  17.478 ms  928.709 ms  928.871 ms
+ 4  mcgill-gw-qix.risq.net (206.167.128.57)  928.972 ms  928.953 ms  929.148 ms
+ 5  mcgill-qix.dmtrl-rq.risq.net (132.202.52.89)  929.299 ms  929.273 ms  929.420 ms
+ 6  dgtnu-uq.risq.net (192.77.55.238)  929.512 ms  14.909 ms  14.891 ms
+ 7  igtnu-uq.risq.net (192.77.55.237)  16.259 ms  23.733 ms  23.953 ms
+ 8  gw-google.torontointernetxchange.net (206.108.34.6)  23.688 ms  23.107 ms  23.283 ms
+ 9  216.239.47.114 (216.239.47.114)  23.773 ms  23.999 ms  1063.971 ms
+10  * * *
+11  * * *
+12  * 209.85.245.181 (209.85.245.181)  31.114 ms  27.979 ms
+13  lga15s44-in-f15.1e100.net (74.125.226.79)  25.321 ms  25.309 ms  25.424 ms

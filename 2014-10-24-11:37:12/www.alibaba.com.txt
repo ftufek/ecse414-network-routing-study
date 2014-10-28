@@ -1,0 +1,31 @@
+traceroute to www.alibaba.com (198.11.132.23), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  16.598 ms  16.566 ms  18.816 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  18.827 ms  18.820 ms  21.519 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  40.107 ms  40.148 ms  40.140 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  40.366 ms  43.636 ms  43.646 ms
+ 5  be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  43.678 ms be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  43.673 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  46.758 ms
+ 6  be2149.ccr22.dca01.atlas.cogentco.com (154.54.31.125)  50.231 ms  33.169 ms be2150.mpd21.dca01.atlas.cogentco.com (154.54.31.129)  33.180 ms
+ 7  be2171.ccr42.atl01.atlas.cogentco.com (154.54.31.109)  40.750 ms be2168.ccr41.atl01.atlas.cogentco.com (154.54.31.93)  40.655 ms be2169.ccr42.atl01.atlas.cogentco.com (154.54.31.97)  40.691 ms
+ 8  be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  55.839 ms  54.603 ms be2173.ccr22.iah01.atlas.cogentco.com (154.54.29.118)  54.502 ms
+ 9  be2068.mpd22.lax01.atlas.cogentco.com (154.54.7.158)  88.624 ms be2067.mpd21.lax01.atlas.cogentco.com (154.54.7.162)  90.739 ms be2065.ccr21.lax01.atlas.cogentco.com (154.54.5.66)  90.734 ms
+10  be2021.ccr21.lax04.atlas.cogentco.com (154.54.87.250)  90.785 ms be2076.ccr21.lax04.atlas.cogentco.com (154.54.2.165)  90.816 ms be2021.ccr21.lax04.atlas.cogentco.com (154.54.87.250)  90.845 ms
+11  38.122.146.142 (38.122.146.142)  97.042 ms 38.104.83.198 (38.104.83.198)  91.564 ms 38.88.197.10 (38.88.197.10)  91.576 ms
+12  202.97.52.205 (202.97.52.205)  93.984 ms  93.996 ms  94.014 ms
+13  202.97.49.206 (202.97.49.206)  94.004 ms  93.649 ms  98.765 ms
+14  203.14.186.142 (203.14.186.142)  96.074 ms  96.013 ms  96.052 ms
+15  218.30.43.18 (218.30.43.18)  96.127 ms  96.125 ms  96.094 ms
+16  198.11.128.125 (198.11.128.125)  112.548 ms  112.562 ms  107.400 ms
+17  198.11.128.57 (198.11.128.57)  95.227 ms  95.239 ms 198.11.128.65 (198.11.128.65)  95.225 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

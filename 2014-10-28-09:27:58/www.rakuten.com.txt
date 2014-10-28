@@ -1,0 +1,7 @@
+traceroute to www.rakuten.com (206.167.78.15), 30 hops max, 60 byte packets
+ 1  142.157.102.3 (142.157.102.3)  5.132 ms  5.171 ms  5.107 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  5.253 ms  5.374 ms  5.367 ms
+ 3  mcgill-gw-intrarisq.risq.net (206.167.128.33)  7.829 ms  7.897 ms  8.433 ms
+ 4  mcgill-intrarisq.dmtrl-rq.risq.net (132.202.42.89)  8.434 ms  234.516 ms  234.485 ms
+ 5  v2257-colo625.risq.net (132.202.45.14)  8.414 ms  8.410 ms  8.525 ms
+ 6  a206-167-78-15.deploy.akamaitechnologies.com (206.167.78.15)  233.737 ms  5.025 ms  1.844 ms

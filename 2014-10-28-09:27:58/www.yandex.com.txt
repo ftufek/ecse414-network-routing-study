@@ -1,0 +1,15 @@
+traceroute to www.yandex.com (213.180.204.62), 30 hops max, 60 byte packets
+ 1  142.157.102.3 (142.157.102.3)  7.744 ms  7.668 ms  7.819 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  7.957 ms  7.979 ms  8.032 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  22.539 ms  22.622 ms  22.675 ms
+ 4  10ge3-4.core1.nyc5.he.net (209.51.172.25)  23.970 ms  23.995 ms  23.958 ms
+ 5  10ge9-7.core1.nyc4.he.net (184.105.213.217)  24.124 ms  24.126 ms  25.679 ms
+ 6  100ge7-2.core1.lon2.he.net (72.52.92.165)  90.002 ms  91.911 ms  92.074 ms
+ 7  100ge3-2.core1.ams1.he.net (72.52.92.214)  96.410 ms  100.194 ms  100.976 ms
+ 8  ams-ix-am1.yandex.net (80.249.211.200)  90.998 ms  91.130 ms  90.678 ms
+ 9  gladiolus-ae1.yndx.net (87.250.239.47)  98.371 ms  98.079 ms  98.278 ms
+10  jansson-xe-5-0-2.yndx.net (87.250.239.104)  132.744 ms jansson-xe-5-0-1.yndx.net (87.250.239.122)  125.589 ms  126.698 ms
+11  marionetka-et-4-1-0.yndx.net (213.180.213.125)  138.862 ms  148.140 ms  138.262 ms
+12  myt-p2-be7.yndx.net (213.180.213.88)  157.884 ms  148.609 ms iva-p2-be2.yndx.net (87.250.239.108)  150.289 ms
+13  myt4-c1-ae1.yndx.net (87.250.239.151)  158.162 ms  160.953 ms iva3-c1-ae1.yndx.net (213.180.213.51)  152.369 ms
+14  yandex.com (213.180.204.62)  153.573 ms  169.062 ms  161.930 ms

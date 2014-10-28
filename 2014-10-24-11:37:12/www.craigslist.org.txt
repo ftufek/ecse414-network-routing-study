@@ -1,0 +1,12 @@
+traceroute to www.craigslist.org (208.82.238.225), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  3.280 ms  3.270 ms  5.627 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  5.620 ms  5.626 ms  5.614 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  27.144 ms  24.356 ms  24.370 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  24.373 ms  24.359 ms  26.958 ms
+ 5  be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  26.947 ms be2326.mpd21.jfk02.atlas.cogentco.com (154.54.44.69)  26.935 ms  26.926 ms
+ 6  be2115.ccr42.ord01.atlas.cogentco.com (154.54.6.190)  43.335 ms be2116.ccr41.ord01.atlas.cogentco.com (154.54.7.26)  42.642 ms  42.643 ms
+ 7  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  49.694 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  52.775 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  55.804 ms
+ 8  be2133.ccr22.sfo01.atlas.cogentco.com (154.54.30.65)  88.998 ms  88.312 ms  88.269 ms
+ 9  be2452.rcr12.b003070-1.sfo01.atlas.cogentco.com (154.54.28.70)  90.956 ms  90.981 ms be2459.rcr12.b003070-1.sfo01.atlas.cogentco.com (154.54.28.78)  86.990 ms
+10  38.88.247.158 (38.88.247.158)  89.669 ms  92.506 ms  92.464 ms
+11  www.craigslist.org (208.82.238.225)  89.603 ms  89.816 ms  88.946 ms

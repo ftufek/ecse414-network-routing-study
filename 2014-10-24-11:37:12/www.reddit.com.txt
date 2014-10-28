@@ -1,0 +1,8 @@
+traceroute to www.reddit.com (198.41.208.142), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * 10ge3-4.core1.nyc5.he.net (209.51.172.25)  33.164 ms
+ 5  10ge9-7.core1.nyc4.he.net (184.105.213.217)  38.851 ms  38.828 ms  38.801 ms
+ 6  xe-0-0-0.edge01.ewr01.as13335.net (198.32.118.206)  36.146 ms  37.851 ms  34.886 ms
+ 7  198.41.208.142 (198.41.208.142)  34.804 ms  34.730 ms  40.009 ms
