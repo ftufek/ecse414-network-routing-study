@@ -1,0 +1,16 @@
+traceroute to www.craigslist.org (208.82.236.129), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  1.949 ms  4.529 ms  4.540 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  4.532 ms  4.558 ms  4.559 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  24.436 ms  26.957 ms  26.944 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  24.419 ms  26.824 ms  26.842 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  26.882 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  26.851 ms be2325.ccr22.jfk02.atlas.cogentco.com (154.54.47.29)  26.864 ms
+ 6  be2151.mpd22.dca01.atlas.cogentco.com (154.54.40.73)  36.188 ms be2149.ccr22.dca01.atlas.cogentco.com (154.54.31.125)  38.212 ms  28.513 ms
+ 7  be2170.ccr41.atl01.atlas.cogentco.com (154.54.31.105)  39.392 ms be2169.ccr42.atl01.atlas.cogentco.com (154.54.31.97)  39.371 ms be2168.ccr41.atl01.atlas.cogentco.com (154.54.31.93)  42.000 ms
+ 8  be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  56.601 ms be2173.ccr22.iah01.atlas.cogentco.com (154.54.29.118)  54.264 ms be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  54.219 ms
+ 9  multi-use.cogentco.com (154.54.2.234)  59.922 ms  59.905 ms be2291.ccr21.sat01.atlas.cogentco.com (154.54.2.190)  59.918 ms
+10  be2301.ccr21.elp01.atlas.cogentco.com (154.54.5.174)  71.134 ms  71.162 ms  71.166 ms
+11  be2414.ccr22.phx02.atlas.cogentco.com (154.54.42.105)  81.969 ms  78.689 ms  78.651 ms
+12  te2-1.mag02.phx02.atlas.cogentco.com (154.54.1.230)  78.566 ms te3-1.mag01.phx02.atlas.cogentco.com (154.54.24.145)  78.587 ms  78.571 ms
+13  154.24.36.66 (154.24.36.66)  78.586 ms 154.24.36.62 (154.24.36.62)  78.575 ms 154.24.36.66 (154.24.36.66)  79.152 ms
+14  38.88.238.86 (38.88.238.86)  79.057 ms  79.095 ms  79.108 ms
+15  www.craigslist.org (208.82.236.129)  79.096 ms  79.086 ms  79.073 ms

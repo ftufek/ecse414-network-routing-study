@@ -1,0 +1,10 @@
+traceroute to www.indeed.com (50.97.35.152), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  3.085 ms  3.058 ms  3.030 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  5.336 ms  5.339 ms  5.321 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  27.609 ms  24.576 ms  24.603 ms
+ 4  10ge3-4.core1.nyc5.he.net (209.51.172.25)  33.814 ms  33.832 ms  33.819 ms
+ 5  te2-6.bbr01.tl01.nyc01.networklayer.com (206.126.115.22)  24.516 ms  27.355 ms  27.381 ms
+ 6  ae1.bbr01.eq01.wdc02.networklayer.com (173.192.18.156)  33.740 ms  26.538 ms  28.726 ms
+ 7  ae0.dar02.sr01.wdc01.networklayer.com (173.192.18.203)  28.737 ms  27.892 ms ae0.dar01.sr01.wdc01.networklayer.com (173.192.18.197)  27.867 ms
+ 8  po2.fcr03.sr02.wdc01.networklayer.com (208.43.118.159)  27.854 ms po1.fcr03.sr02.wdc01.networklayer.com (208.43.118.157)  34.222 ms  34.187 ms
+ 9  50.97.35.152-static.reverse.softlayer.com (50.97.35.152)  28.149 ms  27.801 ms  27.722 ms

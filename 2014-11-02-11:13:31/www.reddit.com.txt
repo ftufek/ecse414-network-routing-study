@@ -1,0 +1,8 @@
+traceroute to www.reddit.com (198.41.208.141), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  15.110 ms  15.161 ms  15.169 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  17.759 ms  17.805 ms  17.810 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  35.526 ms  38.671 ms  38.675 ms
+ 4  10ge3-4.core1.nyc5.he.net (209.51.172.25)  44.537 ms  44.563 ms  44.648 ms
+ 5  10ge9-7.core1.nyc4.he.net (184.105.213.217)  53.870 ms  56.269 ms  58.688 ms
+ 6  xe-0-0-0.edge01.ewr01.as13335.net (198.32.118.206)  58.672 ms  35.314 ms  21.234 ms
+ 7  198.41.208.141 (198.41.208.141)  21.221 ms  21.193 ms  23.528 ms
