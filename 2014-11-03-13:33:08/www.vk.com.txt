@@ -1,0 +1,12 @@
+traceroute to www.vk.com (87.240.131.120), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  17.119 ms  17.120 ms  17.115 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  3.094 ms  3.107 ms  5.893 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  20.716 ms  27.623 ms  30.278 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  27.583 ms  30.286 ms  30.271 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  30.254 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  30.268 ms  30.264 ms
+ 6  be2490.ccr42.lon13.atlas.cogentco.com (154.54.42.86)  100.824 ms  97.792 ms be2317.ccr41.lon13.atlas.cogentco.com (154.54.30.186)  107.211 ms
+ 7  be2194.ccr41.ams03.atlas.cogentco.com (130.117.50.242)  104.349 ms be2488.ccr42.ams03.atlas.cogentco.com (154.54.39.109)  95.836 ms  99.190 ms
+ 8  be2187.ccr42.ham01.atlas.cogentco.com (154.54.74.126)  109.099 ms  107.322 ms  105.484 ms
+ 9  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  124.467 ms  129.704 ms  129.630 ms
+10  be2397.ccr21.sto01.atlas.cogentco.com (130.117.50.130)  127.218 ms be2396.ccr21.sto01.atlas.cogentco.com (130.117.50.122)  145.091 ms be2397.ccr21.sto01.atlas.cogentco.com (130.117.50.130)  135.687 ms
+11  universal-cdn.demarc.cogentco.com (149.6.168.102)  176.653 ms !X * *

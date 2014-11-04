@@ -1,0 +1,11 @@
+traceroute to www.chinadaily.com.cn (209.177.92.15), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  43.110 ms  43.108 ms  43.180 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  3.074 ms  3.097 ms  3.092 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  22.006 ms  22.037 ms  22.038 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  25.175 ms  25.181 ms  25.188 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  25.187 ms  27.719 ms be2325.ccr22.jfk02.atlas.cogentco.com (154.54.47.29)  27.725 ms
+ 6  be2057.ccr21.jfk10.atlas.cogentco.com (154.54.80.178)  30.538 ms  24.661 ms be2056.ccr21.jfk10.atlas.cogentco.com (154.54.44.218)  27.465 ms
+ 7  208.51.134.113 (208.51.134.113)  24.640 ms  23.873 ms  23.851 ms
+ 8  po2-20g.ar2.sjc2.gblx.net (67.17.105.6)  87.265 ms  90.432 ms  90.446 ms
+ 9  chinacache.gigabitethernet3-7.ar2.sjc2.gblx.net (64.210.19.222)  90.448 ms  90.446 ms  87.911 ms
+10  209.177.92.15 (209.177.92.15)  90.861 ms  90.873 ms  90.876 ms

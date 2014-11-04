@@ -1,0 +1,19 @@
+traceroute to www.facebook.com (31.13.70.81), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  55.120 ms  57.510 ms  57.513 ms
+ 2  internet2-vlan877.gw.mcgill.ca (132.216.255.99)  37.126 ms  37.232 ms  39.773 ms
+ 3  internet1-vlan710.gw.mcgill.ca (192.168.254.4)  174.950 ms  177.154 ms  177.170 ms
+ 4  mcgill-gw-qix.risq.net (206.167.128.57)  45.741 ms  45.883 ms  48.689 ms
+ 5  mcgill-qix.dmtrl-rq.risq.net (132.202.52.89)  48.760 ms  51.533 ms  51.563 ms
+ 6  imtrl-uq.risq.net (192.77.55.245)  51.570 ms  39.239 ms  41.972 ms
+ 7  mtrl2rtr2.canarie.ca (199.212.24.82)  52.403 ms  48.778 ms  51.252 ms
+ 8  toro1rtr2.canarie.ca (205.189.33.222)  125.659 ms  125.710 ms  127.810 ms
+ 9  clgr2rtr2.canarie.ca (205.189.33.208)  127.763 ms  127.787 ms  71.475 ms
+10  vncv1rtr2.canarie.ca (199.212.24.1)  72.519 ms  74.663 ms  74.659 ms
+11  six1.pr01.sea1.tfbnw.net (206.81.80.181)  82.699 ms  82.708 ms  85.265 ms
+12  be2.bb02.sea1.tfbnw.net (74.119.79.30)  100.850 ms be2.bb01.sea1.tfbnw.net (74.119.78.77)  90.348 ms  92.793 ms
+13  ae12.bb02.pao1.tfbnw.net (74.119.78.72)  86.193 ms ae15.bb02.pao1.tfbnw.net (74.119.79.37)  83.749 ms ae12.bb02.pao1.tfbnw.net (74.119.78.72)  83.727 ms
+14  be22.bb02.lax1.tfbnw.net (31.13.31.12)  88.182 ms be7.bb02.lax1.tfbnw.net (74.119.76.166)  88.094 ms be22.bb02.lax1.tfbnw.net (31.13.31.12)  90.760 ms
+15  ae2.pr01.lax1.tfbnw.net (31.13.30.27)  89.963 ms  89.931 ms  89.868 ms
+16  * * *
+17  * * *
+18  edge-star-shv-06-lax1.facebook.com (31.13.70.81)  92.134 ms  92.141 ms  88.024 ms

@@ -1,0 +1,15 @@
+traceroute to www.flickr.com (98.139.199.205), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  5.603 ms  5.573 ms  5.548 ms
+ 2  internet2-vlan877.gw.mcgill.ca (132.216.255.99)  2.968 ms  2.970 ms  5.485 ms
+ 3  internet1-vlan710.gw.mcgill.ca (192.168.254.4)  135.622 ms  135.620 ms  135.609 ms
+ 4  mcgill-gw-qix.risq.net (206.167.128.57)  8.312 ms  8.304 ms  8.298 ms
+ 5  mcgill-qix.dmtrl-rq.risq.net (132.202.52.89)  8.277 ms  8.260 ms  8.236 ms
+ 6  imtrl-uq.risq.net (192.77.55.245)  10.591 ms  7.767 ms  7.721 ms
+ 7  mtrl2rtr2.canarie.ca (199.212.24.82)  2.847 ms  5.687 ms  5.702 ms
+ 8  nyiix.bas1-m.nyc.yahoo.com (198.32.160.121)  18.389 ms  18.324 ms  21.115 ms
+ 9  ae-5.pat1.bfz.yahoo.com (216.115.96.65)  27.146 ms ae-2.pat2.bfz.yahoo.com (216.115.100.74)  35.125 ms ae-5.pat1.bfz.yahoo.com (216.115.96.65)  184.500 ms
+10  ae-3.msr2.bf1.yahoo.com (216.115.100.31)  51.082 ms ae-4.msr2.bf1.yahoo.com (216.115.100.73)  40.798 ms ae-3.msr1.bf1.yahoo.com (216.115.100.29)  51.071 ms
+11  unknown-98-139-232-x.yahoo.com (98.139.232.91)  54.403 ms xe-10-0-1.clr1-a-gdc.bf1.yahoo.com (98.139.232.103)  32.504 ms unknown-98-139-130-x.yahoo.com (98.139.130.15)  51.510 ms
+12  et18-25.fab6-1-sat.bf1.yahoo.com (98.139.128.103)  31.746 ms  29.281 ms et-17-1.fab7-1-gdc.bf1.yahoo.com (98.139.128.49)  35.955 ms
+13  po-12.bas1-1-prd.bf1.yahoo.com (98.139.129.61)  26.463 ms po-11.bas1-1-prd.bf1.yahoo.com (98.139.129.45)  55.383 ms po-9.bas1-1-prd.bf1.yahoo.com (98.139.129.13)  52.703 ms
+14  r2.ycpi.vip.bf1.yahoo.net (98.139.199.205)  30.189 ms  27.791 ms  27.450 ms

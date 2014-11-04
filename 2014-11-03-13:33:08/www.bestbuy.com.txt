@@ -1,0 +1,12 @@
+traceroute to www.bestbuy.com (206.167.78.14), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  90.278 ms  90.240 ms  90.203 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  5.334 ms  5.318 ms  5.289 ms
+ 3  mcgill-gw-intrarisq.risq.net (206.167.128.33)  5.262 ms  8.397 ms  8.411 ms
+ 4  mcgill-intrarisq.dmtrl-rq.risq.net (132.202.42.89)  8.399 ms  8.392 ms  8.376 ms
+ 5  v2257-colo625.risq.net (132.202.45.14)  8.355 ms  8.337 ms  8.317 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * a206-167-78-14.deploy.akamaitechnologies.com (206.167.78.14)  3.130 ms  3.132 ms

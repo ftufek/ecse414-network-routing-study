@@ -1,0 +1,7 @@
+traceroute to www.indiatimes.com (206.167.78.31), 30 hops max, 60 byte packets
+ 1  142.157.146.3 (142.157.146.3)  43.463 ms  43.426 ms  43.395 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  112.560 ms  112.631 ms  112.629 ms
+ 3  mcgill-gw-intrarisq.risq.net (206.167.128.33)  4.452 ms  4.454 ms  6.850 ms
+ 4  mcgill-intrarisq.dmtrl-rq.risq.net (132.202.42.89)  6.889 ms  6.879 ms  6.871 ms
+ 5  v2257-colo625.risq.net (132.202.45.14)  6.901 ms  9.610 ms  9.664 ms
+ 6  a206-167-78-31.deploy.akamaitechnologies.com (206.167.78.31)  6.938 ms  5.022 ms  4.978 ms
