@@ -1,0 +1,9 @@
+traceroute to www.twitter.com (199.16.156.70), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  3.195 ms  5.714 ms  5.719 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  5.720 ms  8.140 ms  8.163 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  107.822 ms  107.837 ms  107.842 ms
+ 4  10ge3-4.core1.nyc5.he.net (209.51.172.25)  30.085 ms  30.082 ms  30.074 ms
+ 5  10ge6-1.core1.nyc6.he.net (72.52.92.101)  33.211 ms  33.248 ms  33.246 ms
+ 6  twitter (198.32.160.56)  33.215 ms  22.401 ms  22.308 ms
+ 7  ae65.atl1-er1.twttr.com (192.133.76.21)  47.299 ms  47.342 ms  47.355 ms
+ 8  199.16.156.70 (199.16.156.70)  49.719 ms  48.654 ms  48.677 ms

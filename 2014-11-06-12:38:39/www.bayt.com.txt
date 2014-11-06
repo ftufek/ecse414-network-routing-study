@@ -1,0 +1,31 @@
+traceroute to www.bayt.com (199.83.132.3), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  48.063 ms  48.036 ms  48.016 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  3.090 ms  3.114 ms  5.823 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  50.827 ms  50.818 ms  50.820 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  27.270 ms  27.346 ms  27.299 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  27.266 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  27.228 ms be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  27.239 ms
+ 6  be2063.ccr21.jfk05.atlas.cogentco.com (154.54.47.58)  29.962 ms be2060.ccr21.jfk05.atlas.cogentco.com (154.54.31.10)  26.896 ms be2061.ccr21.jfk05.atlas.cogentco.com (154.54.3.70)  26.812 ms
+ 7  tiscali.jfk07.atlas.cogentco.com (154.54.10.90)  24.111 ms  20.315 ms tinet.jfk07.atlas.cogentco.com (154.54.10.142)  20.230 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

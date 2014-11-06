@@ -1,0 +1,31 @@
+traceroute to www.bankofamerica.com (171.161.199.100), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  18.644 ms  18.631 ms  18.612 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  5.506 ms  5.521 ms  5.523 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  22.384 ms  25.025 ms  25.038 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  25.020 ms  24.991 ms  24.990 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  28.100 ms  28.107 ms be2325.ccr22.jfk02.atlas.cogentco.com (154.54.47.29)  28.094 ms
+ 6  be2149.ccr22.dca01.atlas.cogentco.com (154.54.31.125)  31.783 ms be2151.mpd22.dca01.atlas.cogentco.com (154.54.40.73)  26.445 ms  29.137 ms
+ 7  be2177.ccr41.iad02.atlas.cogentco.com (154.54.41.205)  29.152 ms be2176.ccr41.iad02.atlas.cogentco.com (154.54.41.53)  29.894 ms  29.896 ms
+ 8  xe-11-2-1.edge3.washington4.level3.net (4.68.63.173)  37.030 ms  29.963 ms  29.869 ms
+ 9  ae-1-8.bar1.phoenix1.level3.net (4.69.133.29)  92.925 ms  92.977 ms  92.969 ms
+10  ae-1-8.bar1.phoenix1.level3.net (4.69.133.29)  92.908 ms  92.898 ms  92.912 ms
+11  bank-of-ame.bar1.phoenix1.level3.net (4.28.80.18)  92.902 ms  93.360 ms  93.329 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
