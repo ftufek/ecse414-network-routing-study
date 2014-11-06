@@ -1,0 +1,14 @@
+traceroute to www.forbes.com (63.240.4.179), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  3.189 ms  3.205 ms  3.200 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  3.212 ms  5.577 ms  5.588 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  24.114 ms  24.154 ms  24.157 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  24.157 ms  24.158 ms  24.161 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  24.159 ms be2325.ccr22.jfk02.atlas.cogentco.com (154.54.47.29)  27.218 ms  27.243 ms
+ 6  be2059.ccr21.jfk10.atlas.cogentco.com (154.54.1.222)  27.270 ms  21.777 ms be2056.ccr21.jfk10.atlas.cogentco.com (154.54.44.218)  21.736 ms
+ 7  comcast.jfk07.atlas.cogentco.com (154.54.10.98)  31.031 ms  30.971 ms  24.394 ms
+ 8  cr2.n54ny.ip.att.net (12.122.105.74)  28.143 ms  23.600 ms  23.527 ms
+ 9  gar10.n54ny.ip.att.net (12.122.105.97)  23.384 ms  23.437 ms  23.437 ms
+10  12.122.251.246 (12.122.251.246)  21.600 ms  21.566 ms  21.552 ms
+11  mdf017c7613r0002-tge-10-1.nyc2.attens.net (63.240.24.82)  21.506 ms mdf017c7613r0001-tge-12-1.nyc2.attens.net (63.240.24.86)  23.873 ms  23.042 ms
+12  199.106.211.99 (199.106.211.99)  23.016 ms  23.004 ms  22.990 ms
+13  www.forbes.com (63.240.4.179)  22.977 ms  22.965 ms  24.946 ms

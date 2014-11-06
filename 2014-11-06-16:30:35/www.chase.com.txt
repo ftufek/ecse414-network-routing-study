@@ -1,0 +1,31 @@
+traceroute to www.chase.com (159.53.42.11), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  5.622 ms  5.566 ms  5.551 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  2.957 ms  2.948 ms  5.430 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  23.320 ms  23.331 ms  23.311 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  23.294 ms  23.275 ms  26.065 ms
+ 5  be2327.mpd22.jfk02.atlas.cogentco.com (154.54.1.161)  26.069 ms  26.052 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  26.035 ms
+ 6  be2060.ccr21.jfk05.atlas.cogentco.com (154.54.31.10)  28.909 ms  26.142 ms be2061.ccr21.jfk05.atlas.cogentco.com (154.54.3.70)  23.228 ms
+ 7  0.xe-8-3-0.br2.nyc4.alter.net (204.255.168.109)  20.713 ms 0.xe-10-3-0.br2.nyc4.alter.net (204.255.168.113)  21.965 ms 0.xe-8-3-0.br2.nyc4.alter.net (204.255.168.109)  21.995 ms
+ 8  0.xe-5-2-1.xl4.nyc1.alter.net (152.63.20.246)  21.981 ms * *
+ 9  0.xe-8-1-0.gw13.nyc1.alter.net (152.63.4.133)  23.527 ms 0.xe-8-3-0.gw13.nyc1.alter.net (152.63.5.1)  21.788 ms 0.xe-10-0-0.gw13.nyc1.alter.net (152.63.18.110)  21.771 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

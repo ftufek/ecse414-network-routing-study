@@ -1,0 +1,12 @@
+traceroute to www.flickr.com (206.190.57.60), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  5.822 ms  5.871 ms  5.873 ms
+ 2  internet2-vlan877.gw.mcgill.ca (132.216.255.99)  3.185 ms  3.233 ms  5.814 ms
+ 3  internet1-vlan710.gw.mcgill.ca (192.168.254.4)  5.856 ms  5.882 ms  8.537 ms
+ 4  mcgill-gw-qix.risq.net (206.167.128.57)  8.468 ms  8.543 ms  8.564 ms
+ 5  mcgill-qix.dmtrl-rq.risq.net (132.202.52.89)  8.568 ms  8.571 ms  11.157 ms
+ 6  imtrl-uq.risq.net (192.77.55.245)  11.182 ms  7.864 ms  7.875 ms
+ 7  mtrl2rtr2.canarie.ca (199.212.24.82)  3.220 ms  6.635 ms  4.502 ms
+ 8  nyiix.bas1-m.nyc.yahoo.com (198.32.160.121)  20.147 ms  20.156 ms  20.135 ms
+ 9  ae-9.pat2.dce.yahoo.com (216.115.100.92)  26.173 ms  26.198 ms  73.102 ms
+10  unknown-206-190-56-x.yahoo.com (206.190.56.13)  28.822 ms  28.774 ms unknown-206-190-56-x.yahoo.com (206.190.56.17)  28.741 ms
+11  r1.ycpi.vip.dcb.yahoo.net (206.190.57.60)  28.682 ms  28.722 ms *

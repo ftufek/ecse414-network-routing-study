@@ -1,0 +1,11 @@
+traceroute to www.stackoverflow.com (198.252.206.16), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  103.303 ms  103.280 ms  103.260 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  103.243 ms  103.226 ms  103.209 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  35.023 ms  34.924 ms  34.959 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  25.164 ms  25.198 ms  25.194 ms
+ 5  be2325.ccr22.jfk02.atlas.cogentco.com (154.54.47.29)  25.188 ms  27.626 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  27.655 ms
+ 6  be2356.rcr22.jfk01.atlas.cogentco.com (154.54.43.98)  27.704 ms be2355.rcr21.jfk01.atlas.cogentco.com (154.54.43.94)  23.001 ms be2358.rcr22.jfk01.atlas.cogentco.com (154.54.43.106)  22.981 ms
+ 7  te7-2.mag01.jfk01.atlas.cogentco.com (154.54.80.90)  77.555 ms te8-2.mag01.jfk01.atlas.cogentco.com (154.54.80.86)  77.535 ms te7-2.mag01.jfk01.atlas.cogentco.com (154.54.80.90)  75.119 ms
+ 8  te0-0-1-1.nr11.b002966-1.jfk01.atlas.cogentco.com (154.24.1.178)  20.402 ms  23.614 ms  20.141 ms
+ 9  38.140.2.58 (38.140.2.58)  23.186 ms  23.176 ms  22.350 ms
+10  stackoverflow.com (198.252.206.16)  22.281 ms  25.258 ms  22.122 ms

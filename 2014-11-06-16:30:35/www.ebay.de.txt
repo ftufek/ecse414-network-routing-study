@@ -1,0 +1,7 @@
+traceroute to www.ebay.de (206.167.78.22), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  3.209 ms  3.202 ms  3.204 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  6.540 ms  6.554 ms  6.591 ms
+ 3  mcgill-gw-intrarisq.risq.net (206.167.128.33)  9.063 ms  9.085 ms  9.087 ms
+ 4  mcgill-intrarisq.dmtrl-rq.risq.net (132.202.42.89)  11.753 ms  11.760 ms  11.774 ms
+ 5  v2257-colo625.risq.net (132.202.45.14)  11.736 ms  11.705 ms  11.711 ms
+ 6  a206-167-78-22.deploy.akamaitechnologies.com (206.167.78.22)  11.697 ms  3.226 ms  6.313 ms

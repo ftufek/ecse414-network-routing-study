@@ -1,0 +1,10 @@
+traceroute to www.apple.com (96.16.45.15), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  211.383 ms  211.418 ms  213.951 ms
+ 2  internet2-vlan877.gw.mcgill.ca (132.216.255.99)  208.342 ms  208.385 ms  208.418 ms
+ 3  internet1-vlan710.gw.mcgill.ca (192.168.254.4)  208.419 ms  211.114 ms  211.185 ms
+ 4  mcgill-gw-qix.risq.net (206.167.128.57)  11.564 ms  14.403 ms  14.434 ms
+ 5  mcgill-qix.dmtrl-rq.risq.net (132.202.52.89)  17.022 ms  16.932 ms  19.504 ms
+ 6  dgtnu-uq.risq.net (192.77.55.238)  22.208 ms  34.954 ms  35.368 ms
+ 7  igtnu-uq.risq.net (192.77.55.237)  41.316 ms  41.762 ms  41.675 ms
+ 8  gw-akamai.torontointernetxchange.net (206.108.34.24)  39.434 ms  36.732 ms  38.697 ms
+ 9  a96-16-45-15.deploy.akamaitechnologies.com (96.16.45.15)  384.975 ms  379.173 ms  376.034 ms

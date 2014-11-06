@@ -1,0 +1,12 @@
+traceroute to www.vk.com (87.240.131.119), 30 hops max, 60 byte packets
+ 1  142.157.70.3 (142.157.70.3)  3.503 ms  3.502 ms  3.497 ms
+ 2  internet2-vlan677.gw.mcgill.ca (132.216.255.107)  6.541 ms  6.547 ms  6.553 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  26.096 ms  26.109 ms  26.108 ms
+ 4  te0-0-0-8.ccr21.jfk04.atlas.cogentco.com (38.104.72.81)  26.105 ms  28.407 ms  28.413 ms
+ 5  be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  28.410 ms  28.416 ms  28.413 ms
+ 6  be2317.ccr41.lon13.atlas.cogentco.com (154.54.30.186)  100.733 ms be2490.ccr42.lon13.atlas.cogentco.com (154.54.42.86)  95.143 ms  95.128 ms
+ 7  be2488.ccr42.ams03.atlas.cogentco.com (154.54.39.109)  95.110 ms  95.318 ms be2194.ccr41.ams03.atlas.cogentco.com (130.117.50.242)  110.820 ms
+ 8  be2187.ccr42.ham01.atlas.cogentco.com (154.54.74.126)  104.258 ms  104.762 ms be2186.ccr41.ham01.atlas.cogentco.com (154.54.74.122)  117.909 ms
+ 9  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  124.460 ms  121.926 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  129.890 ms
+10  be2397.ccr21.sto01.atlas.cogentco.com (130.117.50.130)  124.414 ms  136.321 ms  136.336 ms
+11  tc-bb-teng2-3.sto.corbina.net (149.6.168.94)  179.205 ms !X * *
